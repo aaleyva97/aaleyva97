@@ -15,6 +15,8 @@
 💻 Especializado en diseñar e implementar soluciones digitales robustas y escalables
 
 🎥 Creador de contenido: comparto tutoriales, consejos y buenas prácticas para la comunidad de desarrolladores
+
+📫 Contacto: **aaleyva97@gmail.com**
 <!--Intro end-->
   </p>
 <br>
